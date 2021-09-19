@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Un breve ejemplo super basico pero para entender y practicar con Redux
+
+
 ## Available Scripts
 
 In the project directory, you can run:

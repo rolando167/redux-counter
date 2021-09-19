@@ -1,0 +1,15 @@
+
+
+YT: https://www.youtube.com/watch?v=1JtWHsPHaiM&list=PLIyua1a92yWf9ayquPZQMY2C_s9ktdbRG&index=1
+
+Redux Para Principiantes - Desde Cero ⚛️
+
+-----------------
+Instalar Redux -
+
+>npm install redux react-redux
+-----------------
+
+https://uigradients.com/#AzurLane
+
+-----------------
