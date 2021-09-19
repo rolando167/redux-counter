@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Un breve ejemplo super basico pero para entender y practicar con Redux
+Un breve ejemplo super basico pero para entender y practicar con Redux, se intalo redux devtools firefox y se agrego el codigo necesario en el store (revisar por si las).
 
 <img src="https://github.com/rolando167/redux-counter/blob/master/index.jpg" >
 
