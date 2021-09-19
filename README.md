@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Un breve ejemplo super basico pero para entender y practicar con Redux
 
+<img src="https://github.com/rolando167/redux-counter/blob/master/index.jpg" >
+
 #https://github.com/rolando167/redux-counter/blob/master/index.jpg
 
 ## Available Scripts
